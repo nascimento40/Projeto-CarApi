@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "hct/hH7YfH/WB2TXpyp7EkW3oPswaVZ6eQ8PxEypJpI=",
+  "Source": "CarApi",
+  "BasePath": "_content/CarApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CarApi\\wwwroot",
+      "Source": "CarApi",
+      "ContentRoot": "C:\\Users\\emili\\Downloads\\CarApi_Project\\wwwroot\\",
+      "BasePath": "_content/CarApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\emili\\Downloads\\CarApi_Project\\wwwroot\\index.html",
+      "SourceId": "CarApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emili\\Downloads\\CarApi_Project\\wwwroot\\",
+      "BasePath": "_content/CarApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\emili\\Downloads\\CarApi_Project\\wwwroot\\script.js",
+      "SourceId": "CarApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emili\\Downloads\\CarApi_Project\\wwwroot\\",
+      "BasePath": "_content/CarApi",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\emili\\Downloads\\CarApi_Project\\wwwroot\\styles.css",
+      "SourceId": "CarApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\emili\\Downloads\\CarApi_Project\\wwwroot\\",
+      "BasePath": "_content/CarApi",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}
